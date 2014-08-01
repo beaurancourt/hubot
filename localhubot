@@ -2,5 +2,6 @@
 
 export HUBOT_HIPCHAT_JID=145394_1078328@chat.hipchat.com
 export HUBOT_HIPCHAT_PASSWORD=triforce
+export HUBOT_HIPCHAT_AUTH_TOKEN=4RZ31hFAeNBRhqpY0fqgmvqD1uW8wIWunvg1TD2v
 
 bin/hubot --adapter hipchat
