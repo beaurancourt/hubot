@@ -1,0 +1,6 @@
+#!/bin/bash
+
+export HUBOT_HIPCHAT_JID=145394_1078328@chat.hipchat.com
+export HUBOT_HIPCHAT_PASSWORD=triforce
+
+bin/hubot --adapter hipchat
