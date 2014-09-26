@@ -1,1 +1,1 @@
-web: bin/hubot --adapter hipchat
+worker: bin/hubot --adapter hipchat
